@@ -14,7 +14,7 @@ To streamline communication and transactions between agricultural wholesalers an
 
 - 🧑‍🌾 Sellers: Upload and manage products, monitor transactions, view zone-specific price trends, manage profile, download PDF reports.
 - 🛍️ Buyers: Search/filter products, place orders, manage cart, submit complaints, view order history, and rate products.
-
+✅ **Note**: Admin panel features are under development and not included in this version.
 ---
 
 ## 🔧 Features Implemented
